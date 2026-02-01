@@ -58,9 +58,8 @@ flowchart TD
 
 ```
 .
-├── data/               # Sample PDFs or documents
-├── notebooks/          # Jupyter / Colab notebooks
-├── images/             # Diagrams and visualizations
+├── Sample Data/               # Sample PDFs or documents
+├── notebook/          # Jupyter / Colab notebooks
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project overview and instructions
 ```
